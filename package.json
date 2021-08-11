@@ -1,6 +1,5 @@
 {
 	"name": "janus",
-	"version": "0.11.3",
 	"description": "The Janus WebRTC Server",
 	"author": "Meetecho",
 	"license": "GPL-3.0",
