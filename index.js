@@ -30,6 +30,8 @@
 	OTHER DEALINGS IN THE SOFTWARE.
  */
 
+import adapter from 'webrtc-adapter';
+
 // List of sessions
 Janus.sessions = {};
 
