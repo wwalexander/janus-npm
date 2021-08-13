@@ -7,7 +7,6 @@
 	"repository": "github:meetecho/janus-gateway",
 	"types": "janus.d.ts",
 	"typings": "janus.d.ts",
-	"main": "module.js",
 	"scripts": {
 		"rollup": "rollup -c rollup.config.js"
 	},
