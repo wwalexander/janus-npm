@@ -1,11 +1,13 @@
 {
-	"name": "janus",
+	"name": "@willalexander/janus",
+	"version": "0.11.3-1",
 	"description": "The Janus WebRTC Server",
 	"author": "Meetecho",
 	"license": "GPL-3.0",
 	"repository": "github:meetecho/janus-gateway",
 	"types": "janus.d.ts",
 	"typings": "janus.d.ts",
+	"main": "module.js",
 	"scripts": {
 		"rollup": "rollup -c rollup.config.js"
 	},
